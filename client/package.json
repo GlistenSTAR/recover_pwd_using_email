@@ -1,0 +1,27 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "await": "^0.2.6",
+    "axios": "^0.21.1",
+    "classnames": "^2.2.5",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.22.0",
+    "react-media-recorder": "^1.4.0",
+    "react-moment": "^0.7.0",
+    "react-multimedia-capture": "^1.2.4",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "redux": "3.7.2",
+    "redux-thunk": "2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:5000"
+}

@@ -1,0 +1,10 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+.dark-overlay{
+    position:fixed;
+    background-color: rgba(0,0,0,0.9);
+    height:100%;
+    width:100%;
+}
